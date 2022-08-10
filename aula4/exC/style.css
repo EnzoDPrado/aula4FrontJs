@@ -1,0 +1,22 @@
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+
+.box{
+    height: 100px;
+    width: 400px;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+}
